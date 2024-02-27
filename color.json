@@ -43,7 +43,7 @@
   { "name": "Gui", "color": "47ff3d", "hat": 4 },
   { "name": "Control", "color": "101010" },
   { "name": "CopyMyControl", "color": "101010" },
-  { "name": "cxntrol", "color": "101010" },
+  { "name": "cxntrol", "color": "101010", "hat": 13 },
   { "name": "control", "color": "101010" },
   { "name": "Conterror", "color": "101010" },
   { "name": "Control Youtube", "color": "101010" },
