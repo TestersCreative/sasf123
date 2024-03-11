@@ -52,5 +52,6 @@
   { "name": "MIRMANURHJK", "color": "000000", "hat": 6 },
   { "name": "angel", "color": "42f5f2" },
   { "name": "%F0%9D%98%95%F0%9D%98%B0%F0%9D%98%B7%F0%9D%98%A2%F0%9D%98%96%F0%9D%98%AF%F0%9D%98%A6", "color": "e70b0b" },
-  { "name": "neair%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%82%AC", "color": "ffff00" }
+  { "name": "neair%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%82%AC", "color": "ffff00" },
+  { "name": "Kz", "hat": 3 }
 ]
